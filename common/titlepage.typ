@@ -9,7 +9,7 @@
   startDate: none,
   submissionDate: none,
 ) = {
-  set document(title: title, author: author)
+  // set document(title: title, author: author)
   set page(
     margin: (left: 30mm, right: 30mm, top: 40mm, bottom: 40mm),
     numbering: none,
@@ -58,7 +58,7 @@
       gutter: 1em,
       strong("Author: "), author,
       strong("Supervisor: "), supervisor,
-      strong("Advisors: "), advisors.join(", "),
+      // strong("Advisors: "), advisors.join(", "),
       strong("Start Date: "), startDate,
       strong("Submission Date: "), submissionDate,
     )

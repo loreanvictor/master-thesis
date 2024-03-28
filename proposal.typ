@@ -57,7 +57,7 @@ A key feature of such tools is realtime collaboration. Collaborative settings ar
 
 A key challenge for implementing realtime collaboration for UML modeling tools such as Apollon (or any other realtime collaboration program), is ensuring that every user is working with the same data. When network is prone to disconnection or delay, it is impossible to guarantee a strong consistency and constant availability @cap. Practically, for example in an educational setting, this would either mean constant interuption for the students while tutors attempt to provide feedback, or tutors providing feedback on diagrams that the students have already changed.
 
-A common-place solution to this is adopting a weaker consistency model, _eventual consistency_, allowing for more optimistic systems that would apply user changes immediately to their local replica and then synchronise with other clients @eventually-consistent. Such solutions however require complex and error-prone reconcilliation mechanisms @crdt-list. Even newer refinements such as conflict-free data types (CRDTs) have unnecessary complexity and inefficient consumption of bandwidth and memory, even for cases as simple as a one-way counter #cite("crdt-list", "delta-crdt"), as shown in #link(<figure-1>)[Figure 1].
+A common-place solution to this is adopting a weaker consistency model, _eventual consistency_, allowing for more optimistic systems that would apply user changes immediately to their local replica and then synchronise with other clients @eventually-consistent. Such solutions however require complex and error-prone reconcilliation mechanisms @crdt-list. Even newer refinements such as conflict-free data types (CRDTs) have unnecessary complexity and inefficient consumption of bandwidth and memory, even for cases as simple as a one-way counter @crdt-list, @delta-crdt, as shown in #link(<figure-1>)[Figure 1].
 
 #figure(
   image("figures/g-counter-cvrdt.png", width: 80%),
@@ -85,12 +85,18 @@ Additional implementation of a pluggable scalability layer then can not only fut
 
 The objectives of the proposed thesis are as follows (in order of priority):
 
-- Implement the simplest possible solution for a conflict-free realtime collaboration system for Apollon UML editor.
+- Restructure Apollon data model to enable use of standard-compliant patching mechanisms producing commutative patches on independent changes and idempotent patches on overlapping changes.
+- Implement a realtime collaboration solution for Apollon, using the proposed data model and patching standards.
 - Evaluate the proposed solution for correctness.
 - Implement a pluggable scalability layer for Apollon, using a simple and scalable architecture.
 - Explore theoretically sufficient conditions for applicability of the proposed solutions for the general case.
 
-#pagebreak(weak: true)
+#figure(
+  image("figures/client-server-uml.png", width: 60%),
+  caption: [
+    Schematic overview of how the realtime collaboration that is to be implemented.
+  ]
+) <figure-2>
 
 = Schedule
   

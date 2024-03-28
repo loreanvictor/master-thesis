@@ -1,0 +1,58 @@
+<svg width="851" height="471" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ffffff"><defs><style>
+  text {
+    fill: #212529;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+  }
+
+  marker, text {
+    fill-opacity: 1;
+  }
+
+  * {
+    overflow: visible;
+  }
+</style></defs><svg x="155" y="15" width="560" height="440" class="Integrating Platform" fill="#ffffff"><g><rect width="100%" height="100%" stroke="black" fill="white" class="sc-fqkvVR uHYUy"></rect><text x="50%" y="16" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Integrating Platform</text></g></svg><svg x="165" y="305" width="540" height="140" class="Apollon" fill="#ffffff"><g><rect width="100%" height="100%" stroke="black" fill="white" class="sc-fqkvVR uHYUy"></rect><text x="50%" y="16" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Apollon</text></g></svg><svg x="175" y="345" width="190" height="60" class="Integrate Collab." fill="#ffffff"><g><ellipse cx="50%" cy="50%" rx="50%" ry="50%" stroke="black" fill="white" class="sc-kAyceB ldFMTf"></ellipse><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Integrate Collab.</text></g></svg><svg x="475" y="345" width="220" height="60" class="Define New Diagram Type" fill="#ffffff"><g><ellipse cx="50%" cy="50%" rx="50%" ry="50%" stroke="black" fill="white" class="sc-kAyceB ldFMTf"></ellipse><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Define New Diagram Type</text></g></svg><svg x="175" y="125" width="190" height="60" class="Impl. Session Mngmnt" fill="#ffffff"><g><ellipse cx="50%" cy="50%" rx="50%" ry="50%" stroke="black" fill="white" class="sc-kAyceB ldFMTf"></ellipse><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Impl. Session Mngmnt</text></g></svg><svg x="175" y="195" width="190" height="60" class="Impl. User Status" fill="#ffffff"><g><ellipse cx="50%" cy="50%" rx="50%" ry="50%" stroke="black" fill="white" class="sc-kAyceB ldFMTf"></ellipse><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Impl. User Status</text></g></svg><svg x="505" y="195" width="190" height="60" class="Impl. Msg Delivery" fill="#ffffff"><g><ellipse cx="50%" cy="50%" rx="50%" ry="50%" stroke="black" fill="white" class="sc-kAyceB ldFMTf"></ellipse><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Impl. Msg Delivery</text></g></svg><svg x="175" y="45" width="190" height="60" class="Impl. Persistence" fill="#ffffff"><g><ellipse cx="50%" cy="50%" rx="50%" ry="50%" stroke="black" fill="white" class="sc-kAyceB ldFMTf"></ellipse><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Impl. Persistence</text></g></svg><svg x="755" y="305" width="80" height="140" class="Apollon Dev" fill="#ffffff"><g><rect width="100%" height="100%" fill="none"></rect><g stroke="black" stroke-width="2"><circle cx="40" cy="25" r="15" stroke="black" fill="white" class="sc-iGgWBj fYmGgq"></circle><line x1="40" y1="40" x2="40" y2="80" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="10" y1="50" x2="70" y2="50" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="40" y1="80" x2="10" y2="110" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="40" y1="80" x2="70" y2="110" stroke="black" class="sc-imWYAI kESMEa"></line></g><text x="40" y="130" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Apollon Dev</text></g></svg><svg x="15" y="155" width="80" height="140" class="Platform Dev" fill="#ffffff"><g><rect width="100%" height="100%" fill="none"></rect><g stroke="black" stroke-width="2"><circle cx="40" cy="25" r="15" stroke="black" fill="white" class="sc-iGgWBj fYmGgq"></circle><line x1="40" y1="40" x2="40" y2="80" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="10" y1="50" x2="70" y2="50" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="40" y1="80" x2="10" y2="110" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="40" y1="80" x2="70" y2="110" stroke="black" class="sc-imWYAI kESMEa"></line></g><text x="40" y="130" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Platform Dev</text></g></svg><svg x="365" y="155" width="140" height="70" class="" fill="#ffffff"><g><g><marker id="marker-8b3c10a6-ba0f-4be2-9972-fd74a13a2aba" viewBox="0 0 30 30" markerWidth="22" markerHeight="30" refX="30" refY="15" orient="auto" markerUnits="strokeWidth"><path d="M0,29 L30,15 L0,1" stroke="black" fill="none" class="sc-gEvEer bFSwyf"></path></marker><path d="
+          M 0 0 L 34.22291236000336 17.11145618000168
+          M 105.77708763999664 52.88854381999832 L 140 70
+        " stroke-dasharray="7" marker-end="url(#marker-8b3c10a6-ba0f-4be2-9972-fd74a13a2aba)" stroke="black" fill="white" class="sc-gEvEer fkqzOi"></path></g><path id="textpath-8b3c10a6-ba0f-4be2-9972-fd74a13a2aba" d="
+          M 34.22291236000336 17.11145618000168
+          L 105.77708763999664 52.88854381999832
+        "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none"><textPath xlink:href="#textpath-8b3c10a6-ba0f-4be2-9972-fd74a13a2aba" startOffset="50%">«include»</textPath></text></g></svg><svg x="365" y="225" width="140" height="1" class="" fill="#ffffff"><g><g><marker id="marker-778374b3-bb30-4937-9c18-74219d8710f2" viewBox="0 0 30 30" markerWidth="22" markerHeight="30" refX="30" refY="15" orient="auto" markerUnits="strokeWidth"><path d="M0,29 L30,15 L0,1" stroke="black" fill="none" class="sc-gEvEer bFSwyf"></path></marker><path d="
+          M 0 0 L 30 0
+          M 110 0 L 140 0
+        " stroke-dasharray="7" marker-end="url(#marker-778374b3-bb30-4937-9c18-74219d8710f2)" stroke="black" fill="white" class="sc-gEvEer fkqzOi"></path></g><path id="textpath-778374b3-bb30-4937-9c18-74219d8710f2" d="
+          M 30 0
+          L 110 0
+        "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none"><textPath xlink:href="#textpath-778374b3-bb30-4937-9c18-74219d8710f2" startOffset="50%">«include»</textPath></text></g></svg><svg x="270" y="225" width="235" height="120" class="" fill="#ffffff"><g><g><marker id="marker-a2c7c649-2bbb-487d-864b-4888a8f778c0" viewBox="0 0 30 30" markerWidth="22" markerHeight="30" refX="30" refY="15" orient="auto" markerUnits="strokeWidth"><path d="M0,29 L30,15 L0,1" stroke="black" fill="none" class="sc-gEvEer bFSwyf"></path></marker><path d="
+          M 0 120 L 81.87578940368766 78.19108626194674
+          M 153.12421059631234 41.80891373805327 L 235 0
+        " stroke-dasharray="7" marker-end="url(#marker-a2c7c649-2bbb-487d-864b-4888a8f778c0)" stroke="black" fill="white" class="sc-gEvEer fkqzOi"></path></g><path id="textpath-a2c7c649-2bbb-487d-864b-4888a8f778c0" d="
+          M 81.87578940368766 78.19108626194674
+          L 153.12421059631234 41.80891373805327
+        "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none"><textPath xlink:href="#textpath-a2c7c649-2bbb-487d-864b-4888a8f778c0" startOffset="50%">«include»</textPath></text></g></svg><svg x="365" y="375" width="110" height="1" class="" fill="#ffffff"><g><g><marker id="marker-25d774c0-98eb-47f8-bbe3-7da13aa5657a" viewBox="0 0 30 30" markerWidth="22" markerHeight="30" refX="30" refY="15" orient="auto" markerUnits="strokeWidth"><path d="M0,29 L30,15 L0,1" stroke="black" fill="none" class="sc-gEvEer bFSwyf"></path></marker><path d="
+          M 0 0 L 15 0
+          M 95 0 L 110 0
+        " stroke-dasharray="7" marker-end="url(#marker-25d774c0-98eb-47f8-bbe3-7da13aa5657a)" stroke="black" fill="white" class="sc-gEvEer fkqzOi"></path></g><path id="textpath-25d774c0-98eb-47f8-bbe3-7da13aa5657a" d="
+          M 15 0
+          L 95 0
+        "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none"><textPath xlink:href="#textpath-25d774c0-98eb-47f8-bbe3-7da13aa5657a" startOffset="50%">«extend»</textPath></text></g></svg><svg x="95" y="155" width="80" height="70" class="" fill="#ffffff"><g><path id="textpath-e0e7d883-ebf7-4ae8-b22f-c66d2ee1c58f" d="
+        M 0 60
+        L 80 -10
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px"><textPath xlink:href="#textpath-e0e7d883-ebf7-4ae8-b22f-c66d2ee1c58f" startOffset="50%"></textPath></text><polyline points="0 70,80 0" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="95" y="225" width="80" height="1" class="" fill="#ffffff"><g><path id="textpath-d04a8137-0a2d-4404-aac5-23782f681c62" d="
+        M 0 -10
+        L 80 -10
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px"><textPath xlink:href="#textpath-d04a8137-0a2d-4404-aac5-23782f681c62" startOffset="50%"></textPath></text><polyline points="0 0,80 0" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="95" y="225" width="80" height="150" class="" fill="#ffffff"><g><path id="textpath-46bfc4f9-2b44-40eb-ae96-abd49a198a48" d="
+        M 0 -10
+        L 80 140
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px"><textPath xlink:href="#textpath-46bfc4f9-2b44-40eb-ae96-abd49a198a48" startOffset="50%"></textPath></text><polyline points="0 0,80 150" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="695" y="375" width="60" height="1" class="" fill="#ffffff"><g><path id="textpath-36ca4d40-5d0e-4252-ac69-379f864daf98" d="
+        M 60 -10
+        L 0 -10
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px" transform="
+            translate(30, 0)
+            rotate(180)
+            translate(-30, 0)
+          "><textPath xlink:href="#textpath-36ca4d40-5d0e-4252-ac69-379f864daf98" startOffset="50%"></textPath></text><polyline points="60 0,0 0" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="95" y="75" width="80" height="150" class="" fill="#ffffff"><g><path id="textpath-46e1e523-90a6-4518-b0e8-386b6a995cf0" d="
+        M 0 140
+        L 80 -10
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px"><textPath xlink:href="#textpath-46e1e523-90a6-4518-b0e8-386b6a995cf0" startOffset="50%"></textPath></text><polyline points="0 150,80 0" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg></svg>

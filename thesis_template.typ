@@ -10,7 +10,7 @@
   submissionDate: none,
   body,
 ) = {
-  set document(title: title, author: author)
+  // set document(title: title, author: author)
   set page(
     margin: (left: 30mm, right: 30mm, top: 40mm, bottom: 40mm),
     numbering: "1",
@@ -50,7 +50,7 @@
   set par(leading: 1em)
 
   // --- Citations ---
-  set cite(style: "alphanumerical")
+  set cite(style: "alphanumeric")
 
   // --- Figures ---
   show figure: set text(size: 0.85em)
@@ -70,9 +70,38 @@
 
 
   // Main body.
-  set par(justify: true)
+  set par(justify: true, first-line-indent: 2em)
 
   body
+
+  // List of figures.
+  pagebreak()
+  heading(numbering: none)[List of Figures]
+  outline(
+    title:"",
+    target: figure.where(kind: image),
+  )
+
+  // List of tables.
+  pagebreak()
+  heading(numbering: none)[List of Tables]
+  outline(
+    title: "",
+    target: figure.where(kind: table)
+  )
+
+  //  List of code samples
+  pagebreak()
+  heading(numbering: none)[List of Code Samples]
+  outline(
+    title: "",
+    target: figure.where(kind: raw)
+  )
+
+  // Appendix.
+  // pagebreak()
+  // heading(numbering: none)[Appendix A: Supplementary Material]
+  // include("thesis_typ/appendix.typ")
 
   pagebreak()
   bibliography("thesis.bib")

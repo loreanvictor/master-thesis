@@ -1,0 +1,65 @@
+<svg width="601" height="521" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ffffff"><defs><style>
+  text {
+    fill: #212529;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+  }
+
+  marker, text {
+    fill-opacity: 1;
+  }
+
+  * {
+    overflow: visible;
+  }
+</style></defs><svg x="15" y="195" width="80" height="140" class="User" fill="#ffffff"><g><rect width="100%" height="100%" fill="none"></rect><g stroke="black" stroke-width="2"><circle cx="40" cy="25" r="15" stroke="black" fill="white" class="sc-iGgWBj fYmGgq"></circle><line x1="40" y1="40" x2="40" y2="80" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="10" y1="50" x2="70" y2="50" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="40" y1="80" x2="10" y2="110" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="40" y1="80" x2="70" y2="110" stroke="black" class="sc-imWYAI kESMEa"></line></g><text x="40" y="130" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">User</text></g></svg><svg x="505" y="195" width="80" height="140" class="User" fill="#ffffff"><g><rect width="100%" height="100%" fill="none"></rect><g stroke="black" stroke-width="2"><circle cx="40" cy="25" r="15" stroke="black" fill="white" class="sc-iGgWBj fYmGgq"></circle><line x1="40" y1="40" x2="40" y2="80" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="10" y1="50" x2="70" y2="50" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="40" y1="80" x2="10" y2="110" stroke="black" class="sc-imWYAI kESMEa"></line><line x1="40" y1="80" x2="70" y2="110" stroke="black" class="sc-imWYAI kESMEa"></line></g><text x="40" y="130" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">User</text></g></svg><svg x="145" y="15" width="310" height="490" class="Integrating platform" fill="#ffffff"><g><rect width="100%" height="100%" stroke="black" fill="white" class="sc-fqkvVR uHYUy"></rect><text x="50%" y="16" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Integrating platform</text></g></svg><svg x="205" y="235" width="200" height="60" class="See Peer Status" fill="#ffffff"><g><ellipse cx="50%" cy="50%" rx="50%" ry="50%" stroke="black" fill="white" class="sc-kAyceB ldFMTf"></ellipse><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">See Peer Status</text></g></svg><svg x="205" y="155" width="200" height="60" class="Save/Load Diagram" fill="#ffffff"><g><ellipse cx="50%" cy="50%" rx="50%" ry="50%" stroke="black" fill="white" class="sc-kAyceB ldFMTf"></ellipse><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Save/Load Diagram</text></g></svg><svg x="205" y="75" width="200" height="60" class="Share Diagram" fill="#ffffff"><g><ellipse cx="50%" cy="50%" rx="50%" ry="50%" stroke="black" fill="white" class="sc-kAyceB ldFMTf"></ellipse><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Share Diagram</text></g></svg><svg x="155" y="305" width="290" height="190" class="Apollon" fill="#ffffff"><g><rect width="100%" height="100%" stroke="black" fill="white" class="sc-fqkvVR uHYUy"></rect><text x="50%" y="16" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Apollon</text></g></svg><svg x="205" y="345" width="200" height="60" class="Change Diagram" fill="#ffffff"><g><ellipse cx="50%" cy="50%" rx="50%" ry="50%" stroke="black" fill="white" class="sc-kAyceB ldFMTf"></ellipse><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">Change Diagram</text></g></svg><svg x="205" y="415" width="200" height="60" class="See Peer Changes" fill="#ffffff"><g><ellipse cx="50%" cy="50%" rx="50%" ry="50%" stroke="black" fill="white" class="sc-kAyceB ldFMTf"></ellipse><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none">See Peer Changes</text></g></svg><svg x="95" y="265" width="110" height="1" class="" fill="#ffffff"><g><path id="textpath-9aa13f4b-c9de-494e-89fe-bb5d414ec25a" d="
+        M 110 -10
+        L 0 -10
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px" transform="
+            translate(55, 0)
+            rotate(180)
+            translate(-55, 0)
+          "><textPath xlink:href="#textpath-9aa13f4b-c9de-494e-89fe-bb5d414ec25a" startOffset="50%"></textPath></text><polyline points="110 0,0 0" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="405" y="265" width="100" height="1" class="" fill="#ffffff"><g><path id="textpath-2109c38e-761e-4e9b-93ba-f80104d5936f" d="
+        M 0 -10
+        L 100 -10
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px"><textPath xlink:href="#textpath-2109c38e-761e-4e9b-93ba-f80104d5936f" startOffset="50%"></textPath></text><polyline points="0 0,100 0" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="95" y="265" width="110" height="110" class="" fill="#ffffff"><g><path id="textpath-b641983a-8877-42e1-b9d6-08036aeff94b" d="
+        M 0 -10
+        L 110 100
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px"><textPath xlink:href="#textpath-b641983a-8877-42e1-b9d6-08036aeff94b" startOffset="50%"></textPath></text><polyline points="0 0,110 110" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="95" y="265" width="110" height="180" class="" fill="#ffffff"><g><path id="textpath-3b2dc627-4a11-44e8-a663-591460080671" d="
+        M 0 -10
+        L 110 170
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px"><textPath xlink:href="#textpath-3b2dc627-4a11-44e8-a663-591460080671" startOffset="50%"></textPath></text><polyline points="0 0,110 180" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="95" y="185" width="110" height="80" class="" fill="#ffffff"><g><path id="textpath-3ab06879-acbe-4cdf-ac80-ad767956d35f" d="
+        M 0 70
+        L 110 -10
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px"><textPath xlink:href="#textpath-3ab06879-acbe-4cdf-ac80-ad767956d35f" startOffset="50%"></textPath></text><polyline points="0 80,110 0" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="95" y="105" width="110" height="160" class="" fill="#ffffff"><g><path id="textpath-23c6775c-7c95-41a0-8238-b17e8df69b16" d="
+        M 0 150
+        L 110 -10
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px"><textPath xlink:href="#textpath-23c6775c-7c95-41a0-8238-b17e8df69b16" startOffset="50%"></textPath></text><polyline points="0 160,110 0" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="405" y="185" width="100" height="80" class="" fill="#ffffff"><g><path id="textpath-c6b90e82-da9d-4547-a3d5-b2da9626d72b" d="
+        M 100 70
+        L 0 -10
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px" transform="
+            translate(50, 40)
+            rotate(180)
+            translate(-50, -40)
+          "><textPath xlink:href="#textpath-c6b90e82-da9d-4547-a3d5-b2da9626d72b" startOffset="50%"></textPath></text><polyline points="100 80,0 0" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="405" y="105" width="100" height="160" class="" fill="#ffffff"><g><path id="textpath-28d1360f-c2f2-45aa-bf7a-91eb8556805e" d="
+        M 100 150
+        L 0 -10
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px" transform="
+            translate(50, 80)
+            rotate(180)
+            translate(-50, -80)
+          "><textPath xlink:href="#textpath-28d1360f-c2f2-45aa-bf7a-91eb8556805e" startOffset="50%"></textPath></text><polyline points="100 160,0 0" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="405" y="265" width="100" height="110" class="" fill="#ffffff"><g><path id="textpath-0c2bb30a-f4b2-41fc-91c2-b61e57b103ec" d="
+        M 100 -10
+        L 0 100
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px" transform="
+            translate(50, 55)
+            rotate(180)
+            translate(-50, -55)
+          "><textPath xlink:href="#textpath-0c2bb30a-f4b2-41fc-91c2-b61e57b103ec" startOffset="50%"></textPath></text><polyline points="100 0,0 110" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg><svg x="405" y="265" width="100" height="180" class="" fill="#ffffff"><g><path id="textpath-486735a2-071a-48e5-a051-e7e0195725eb" d="
+        M 100 -10
+        L 0 170
+    "></path><text dominant-baseline="middle" text-anchor="middle" font-weight="bold" pointer-events="none" dy="20px" transform="
+            translate(50, 90)
+            rotate(180)
+            translate(-50, -90)
+          "><textPath xlink:href="#textpath-486735a2-071a-48e5-a051-e7e0195725eb" startOffset="50%"></textPath></text><polyline points="100 0,0 180" stroke-width="1" stroke="black" fill="none" class="sc-aXZVg eMElBf"></polyline></g></svg></svg>
