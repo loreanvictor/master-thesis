@@ -26,3 +26,24 @@
   response:
     "Real-world testing sessions were conducted, and parameters of these sessions, alongside general learnings (in which cases realtime collaboration in Apollon was found to be useful, missing features and pain points) where added to slides 26 & 27, alongside a detailed report in confluence and corresponding issues on Github."
 )
+
+#feedback(
+  feedback:
+    "System design diagram is perhaps too much in depth, as it involves concepts such as Middlewares and Reducers.",
+  response:
+    "These concepts are basic primitives of Redux-based application architecture, which is the architecture of choice for Apollon. It is thus necessary to use them to outline how the newly implemented realtime collaboration system interacts with Apollon's existing subsystems."
+)
+
+#feedback(
+  feedback:
+    "In the demo recording, it is not clear that two users are using the system and collaborating with each other. This should be further clarified.",
+  response:
+    "The main improvement of the new realtime collaboration system of Apollon over the previous 'naive' implementation is specifically its ability to handle simultaenous changes to the diagram, which makes demos inherently hard to follow. For further clarification, an explanatory description was added to slide 20."
+)
+
+#feedback(
+  feedback:
+    "The supervisor's name is missing from the title slide.",
+  response:
+    "Apologies for the oversight, the title slide was updated with all necessary information including the name of the thesis supervisor."
+)
